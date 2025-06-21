@@ -202,7 +202,7 @@ void main(void) {
 
 ## 📌 Author
 
-**Sathish S**  ""Mohammed Siddik J
+**Sathish S**  **Mohammed Siddik J**
 
 ---
 
