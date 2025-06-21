@@ -1,8 +1,7 @@
 
 # 🔋 Digital Voltmeter using PIC16F877A
 
-This project is a simple **digital DC voltmeter** built using a **PIC16F877A** microcontroller.  
-It measures input voltage (0–30V DC) using a voltage divider and displays the result on a **4-digit 7-segment display** using **multiplexing**.
+I designed a Proteus simulation for a digital voltmeter using the PIC16F877A microcontroller. The firmware was developed in MPLAB X using XC8 in embedded C language. The project includes a complete MPLAB project folder containing the source code, along with the Proteus simulation file that demonstrates real-time voltage measurement and display using a 4-digit 7-segment multiplexed display. Additionally, the generated HEX file is provided for direct simulation or programming. All project resources, including code, simulation, and documentation, are organized and shared in the associated GitHub repository for easy access and reuse.
 
 ---
 
