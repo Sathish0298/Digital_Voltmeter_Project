@@ -15,6 +15,9 @@ I designed a Proteus simulation for a digital voltmeter using the PIC16F877A mic
 
 ![Proteus Simulation Output](images/digital_voltmeter_simulation.jpeg)
 
+## 🖼️ MPLAB Workspace
+
+![MPLAB IDE](MPLAB.jpeg)
 ---
 
 ## 🧰 Components Used
